@@ -1,0 +1,41 @@
+
+
+p {
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+#centerp{
+    text-align: center;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h2 {
+    font-size: 12px;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: circle;
+    margin-top: 0px;
+}
+
+ul li {
+    font-size: 12px;
+}
